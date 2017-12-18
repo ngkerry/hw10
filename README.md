@@ -27,15 +27,11 @@ The project is due in 5 weeks, I’ll try my best to manage my time and not wait
 
 What did you do in each of the past five weeks?
 
-Week 1: Write proposal
-Week 2: buy all materials and parts I’ll use
+Week 1: Write proposal.
+Week 2: buy all materials and parts I’ll use. 
 Week 3: write the code, connect all wires, make sure everything works perfectly, test with people. 
-Week 4: laser cut wood to build mini arcade model, paint model 
+Week 4: laser cut wood to build mini arcade model, paint model. 
 Week 5: Present!
-
-## Completed Work
-
-Photos and videos of your completed final project!
 
 ## References and links
 
